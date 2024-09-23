@@ -57,7 +57,7 @@ def makecircle():
     radius = 200    
     angle = -90       
 
-    while angle < 360:
+    while angle < 270:
         clear_canvas_now()              
         grass.draw_now(400, 30)         
         
